@@ -3,10 +3,11 @@ This Jupyter notebook demonstrates tuning hyperparameters of machine learning mo
 
 Results for hyperparameter tuning:
 
-![download (4)](https://github.com/hanfei1986/Hyperparameter-tuning-with-a-custom-scoring-metric/assets/59255164/db276556-981b-4244-a058-1a0481d68737)
+![image](https://github.com/hanfei1986/Hyperparameter-tuning-with-a-custom-scoring-metric/assets/59255164/b915dedf-62ad-4a30-a014-13c04a5581da)
 
 Furtherly tune the desicion thresholds to gain maximum total profit:
 
-![download (5)](https://github.com/hanfei1986/Hyperparameter-tuning-with-a-custom-scoring-metric/assets/59255164/c7f68a18-7d4b-44bb-aa70-992a669fc8a1)
+![image](https://github.com/hanfei1986/Hyperparameter-tuning-with-a-custom-scoring-metric/assets/59255164/ad9a3303-c905-464e-9e8a-065e019ea816)
+
 
 
